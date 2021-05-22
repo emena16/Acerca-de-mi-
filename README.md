@@ -13,25 +13,25 @@ de liderazgo y responsabilidad.
 
 ## Formación  🎓
 
-_Egresado de la carrera de **Licenciatura en Ciencias de la computación** en:_
+_ Egresado de la carrera de **Licenciatura en Ciencias de la computación** en: _
 
 **Facultad de Ciencias de la Computación** de la **Benemérita Universidad Autónoma de Puebla BUAP**.
 
 
 ### Skills 📋
 
-_Dentro de los lenguajes que mas destaco: _
+_ Dentro de los lenguajes que mas destaco: _
 
 - ![rating](https://img.shields.io/badge/Java-★★★☆☆-brightgreen)
 - ![rating](https://img.shields.io/badge/SQL-★★★★☆-brightgreen)
 - ![rating](https://img.shields.io/badge/C-★★★★☆-brightgreen)
-- ![rating](https://img.shields.io/badge/Arduino y VHDL-★★★☆☆-brightgreen)
+- ![rating](https://img.shields.io/badge/Arduino,VHDL-★★★☆☆-brightgreen)
 - ![rating](https://img.shields.io/badge/Python-★★★★☆-brightgreen)
 - ![rating](https://img.shields.io/badge/PHP-★★★★☆-brightgreen)
 - ![rating](https://img.shields.io/badge/JavaScript-★★★☆☆-brightgreen)
 - ![rating](https://img.shields.io/badge/Kivy-★★★☆☆-brightgreen)
 
-_Tecnologias que se utilizar: _
+_ Tecnologias que se utilizar: _
 ```
 HTML5, Kivy, Bootstrap, MySQL, Anaconda, wampserver, pyCharm, NetBeans,
 PuTTy, CSS, CPanel, node.js, GitHub, VirtualBox, Unix/Bash, Android Studio,
