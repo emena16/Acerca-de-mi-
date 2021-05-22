@@ -2,7 +2,7 @@
 
 ### José Eduardo Mena Delgado 👨🏻‍💼
 - ![Telefono:](https://img.shields.io/badge/teléfono-2481135123-yellowgreen)
-- ![Correo](https://img.shields.io/badge/Correo Electrónico-eduardo.cifer@gmail.com-blue)
+- ![Correo](https://img.shields.io/badge/email-eduardo.cifer@gmail.com-blue)
 - ![rating](https://img.shields.io/badge/Linkedin-https://www.linkedin.com/in/emena16/-brightgreen)
 ```
 Soy una persona apasionada por el desarrollo y la investigación de software, trabajo
@@ -23,7 +23,7 @@ _Egresado de la carrera de **Licenciatura en Ciencias de la computación** en:_
 _Dentro de los lenguajes que mas destaco: _
 
 ```
-- ![rating](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
+- Chrome Web Store extension rating: ![rating](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
 ```
 
 ### Instalación 🔧
