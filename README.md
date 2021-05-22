@@ -1,7 +1,7 @@
 # Mi Curriculum
 
 ### José Eduardo Mena Delgado 👨🏻‍💼
-- ![Telefono:](https://img.shields.io/badge/coverage-2481135123-yellowgreen)
+- ![Telefono:](https://img.shields.io/badge/teléfono-2481135123-yellowgreen)
 ```
 Soy una persona apasionada por el desarrollo y la investigación de software, trabajo
 de manera multidisciplinar, proactiva, puntual y responsable. Tengo la capacidad de
