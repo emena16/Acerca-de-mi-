@@ -2,6 +2,8 @@
 
 ### José Eduardo Mena Delgado 👨🏻‍💼
 - ![Telefono:](https://img.shields.io/badge/teléfono-2481135123-yellowgreen)
+- ![Correo](https://img.shields.io/badge/Correo Electrónico-eduardo.cifer@gmail.com-blue)
+- ![rating](https://img.shields.io/badge/Linkedin-https://www.linkedin.com/in/emena16/-brightgreen)
 ```
 Soy una persona apasionada por el desarrollo y la investigación de software, trabajo
 de manera multidisciplinar, proactiva, puntual y responsable. Tengo la capacidad de
@@ -11,17 +13,17 @@ de liderazgo y responsabilidad.
 
 ## Formación  🎓
 
-_Egresado de la carrera de **Licenciatura en Ciencias de la computación** de:_
+_Egresado de la carrera de **Licenciatura en Ciencias de la computación** en:_
 
-**Benemérita Universidad Autónoma de Puebla BUAP** en **Facultad de Ciencias de la computación**.
+**Facultad de Ciencias de la Computación** de la **Benemérita Universidad Autónoma de Puebla BUAP**.
 
 
-### Pre-requisitos 📋
+### Skills 📋
 
-_Que cosas necesitas para instalar el software y como instalarlas_
+_Dentro de los lenguajes que mas destaco: _
 
 ```
-Da un ejemplo
+- ![rating](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
 ```
 
 ### Instalación 🔧
