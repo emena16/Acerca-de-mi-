@@ -22,8 +22,22 @@ _Egresado de la carrera de **Licenciatura en Ciencias de la computación** en:_
 
 _Dentro de los lenguajes que mas destaco: _
 
+- ![rating](https://img.shields.io/badge/Java-★★★☆☆-brightgreen)
+- ![rating](https://img.shields.io/badge/SQL-★★★★☆-brightgreen)
+- ![rating](https://img.shields.io/badge/C-★★★★☆-brightgreen)
+- ![rating](https://img.shields.io/badge/Arduino y VHDL-★★★☆☆-brightgreen)
+- ![rating](https://img.shields.io/badge/Python-★★★★☆-brightgreen)
+- ![rating](https://img.shields.io/badge/PHP-★★★★☆-brightgreen)
+- ![rating](https://img.shields.io/badge/JavaScript-★★★☆☆-brightgreen)
+- ![rating](https://img.shields.io/badge/Kivy-★★★☆☆-brightgreen)
+
+_Tecnologias que se utilizar: _
 ```
-- Chrome Web Store extension rating: ![rating](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
+HTML5, Kivy, Bootstrap, MySQL, Anaconda, wampserver, pyCharm, NetBeans,
+PuTTy, CSS, CPanel, node.js, GitHub, VirtualBox, Unix/Bash, Android Studio,
+Hostinger Services, Azure Services, Maya Autodesk, Unreal Engine, CorelDrawn,
+Adobe Ilustrator, Intel XDK, Google Services, FaceBook Developer, SSH, Opens SSL,
+Ethereum Wallet, Blockchain, NLTK, CentOs, Ubuntu, Debian.
 ```
 
 ### Instalación 🔧
