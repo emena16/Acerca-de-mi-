@@ -13,14 +13,14 @@ de liderazgo y responsabilidad.
 
 ## Formación  🎓
 
-_ Egresado de la carrera de **Licenciatura en Ciencias de la computación** en: _
+_Egresado de la carrera de **Licenciatura en Ciencias de la computación** en:_
 
 **Facultad de Ciencias de la Computación** de la **Benemérita Universidad Autónoma de Puebla BUAP**.
 
 
 ### Skills 📋
 
-_ Dentro de los lenguajes que mas destaco: _
+_Dentro de los lenguajes que mas destaco:_
 
 - ![rating](https://img.shields.io/badge/Java-★★★☆☆-brightgreen)
 - ![rating](https://img.shields.io/badge/SQL-★★★★☆-brightgreen)
@@ -31,7 +31,7 @@ _ Dentro de los lenguajes que mas destaco: _
 - ![rating](https://img.shields.io/badge/JavaScript-★★★☆☆-brightgreen)
 - ![rating](https://img.shields.io/badge/Kivy-★★★☆☆-brightgreen)
 
-_ Tecnologias que se utilizar: _
+_Tecnologias que se utilizar:_
 ```
 HTML5, Kivy, Bootstrap, MySQL, Anaconda, wampserver, pyCharm, NetBeans,
 PuTTy, CSS, CPanel, node.js, GitHub, VirtualBox, Unix/Bash, Android Studio,
@@ -40,23 +40,12 @@ Adobe Ilustrator, Intel XDK, Google Services, FaceBook Developer, SSH, Opens SSL
 Ethereum Wallet, Blockchain, NLTK, CentOs, Ubuntu, Debian.
 ```
 
-### Instalación 🔧
+# Cursos 🔧
 
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
+_Estos son algunos cursos que he tomado como estudiente_
 
-_Dí cómo será ese paso_
-
-```
-Da un ejemplo
-```
-
-_Y repite_
-
-```
-hasta finalizar
-```
-
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
+* **Kivy y Python para nivel profesional (Udemy)(terminado)** - *2020* - [villanuevand](https://github.com/villanuevand)
+* **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
 
 ## Ejecutando las pruebas ⚙️
 
